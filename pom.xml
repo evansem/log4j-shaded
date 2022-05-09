@@ -19,14 +19,14 @@
             <artifactId>log4j-api</artifactId>
             <version>2.14.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/log4j-api-2.14.0.jar</systemPath>
+            <systemPath>${project.basedir}/lib/my-log4j-api-2.14.0.jar</systemPath>
         </dependency>
         <dependency>
             <groupId>my.org.apache.logging.log4j</groupId>
             <artifactId>log4j-core</artifactId>
             <version>2.14.0</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/log4j-core-2.14.0.jar</systemPath>
+            <systemPath>${project.basedir}/lib/my-log4j-core-2.14.0.jar</systemPath>
         </dependency>
         <!-- https://mvnrepository.com/artifact/org.owasp/dependency-check-maven -->
 <!--        <dependency>-->
